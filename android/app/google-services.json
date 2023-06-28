@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "373661490251",
+    "project_id": "gassin-dc544",
+    "storage_bucket": "gassin-dc544.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373661490251:android:faee9a1620c53f1fba81ce",
+        "android_client_info": {
+          "package_name": "com.example.gass_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373661490251-jpin6jj4ic6hsc5nhihnsq65ujraucef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpJ3bELk9M336ta2Edtjs50Thw5I8Uq7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373661490251-jpin6jj4ic6hsc5nhihnsq65ujraucef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
